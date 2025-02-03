@@ -1,25 +1,26 @@
 .body {
-    border: solid 2px;
-    border-radius: 20px;
+    border: solid 0.2rem;
+    border-radius: 2rem;
     font-family: ;
+    width: 50rem;
 }
 
 .header {
     text-decoration: underline;
-    padding-bottom: 60px;
-    margin-left: 20px;
+    padding-bottom: 6rem;
+    margin-left: 2rem;
 }
 
 .container {
     background-color: lightblue;
-    border: solid 2px;
-    border-radius: 20px;
-    width: 600px;
-    padding: 0px 10px 10px 20px;
+    border: solid 0.2rem;
+    border-radius: 2rem;
+    padding: 0rem 1rem 1rem 2rem;
 }
 
 .content {
-    margin: 100px;
+    margin: 5rem;
+
 }
 
 .blue {
@@ -32,7 +33,7 @@
 
 li {
     list-style-type: none;
-    padding: 5px;
+    padding: 0.5rem;
 }
 
 ul {
