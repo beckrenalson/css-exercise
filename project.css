@@ -1,20 +1,22 @@
 .body {
     border: solid 0.2rem;
     border-radius: 2rem;
-    width: 50rem;
+    width: 80rem;
 }
 
 .header {
-    text-decoration: underline;
+    text-decoration: underline; /* Underline header */
     padding-bottom: 6rem;
     margin-left: 2rem;
+    font-size: 4rem /* Change font size relative to root element */
 }
 
 .container {
-    background-color: lightblue;
+    background-color: lightblue; /* Change background color of box to light blue */
     border: solid 0.2rem;
     border-radius: 2rem;
     padding: 0rem 1rem 1rem 2rem;
+    font-size: 2rem; /* Change font size relative to root element */
 }
 
 .content {
@@ -23,11 +25,11 @@
 }
 
 .blue {
-    color: blue;
+    color: blue; /* Change text color of Parnell and Onehunga to blue */
 }
 
 .orange {
-    color: orange;
+    color: orange; /* Change text color of Newmarket and CBD to orange */
 }
 
 li {
